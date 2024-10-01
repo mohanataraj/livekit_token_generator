@@ -1,0 +1,16 @@
+{
+  "name": "livekit_token_generator",
+  "version": "1.0.0",
+  "description": "\"test livekit local\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "livekit-server-sdk": "^2.6.2"
+  }
+}
